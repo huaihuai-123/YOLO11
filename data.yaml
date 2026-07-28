@@ -1,0 +1,14 @@
+# 数据集配置
+# 用法: yolo train data=data.yaml
+
+# 训练集
+train: dataset/images/train
+# 验证集
+val: dataset/images/val
+# 测试集 (可选)
+test: dataset/images/test
+
+# 类别名称
+names:
+  0: machine
+
