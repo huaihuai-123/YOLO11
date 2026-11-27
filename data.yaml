@@ -11,4 +11,3 @@ test: dataset/images/test
 # 类别名称
 names:
   0: machine
-
